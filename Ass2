@@ -1,0 +1,6 @@
+a=int(input('enter a value:'))
+b=int(input('enter b value:'))
+print('a is b')
+print('a is not b')
+print('a is greater than b')
+print('b is less than a')
